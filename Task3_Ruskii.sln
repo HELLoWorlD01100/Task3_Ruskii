@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_Ruskii", "Task3_Ruskii\Task3_Ruskii.csproj", "{50DD61F1-438C-4824-B917-D234123B29DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DD61F1-438C-4824-B917-D234123B29DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DD61F1-438C-4824-B917-D234123B29DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DD61F1-438C-4824-B917-D234123B29DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DD61F1-438C-4824-B917-D234123B29DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
