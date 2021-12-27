@@ -38,7 +38,7 @@ namespace Task3_Ruskii
             }
 
             var costInfo = lines[(roomsCount + 1)..].SelectMany(x => x.Split(' ')).ToArray();
-            for (var doorNumber = 1; doorNumber < doorsCount; doorNumber++)
+            for (var doorNumber = 1; doorNumber <= doorsCount; doorNumber++)
             {
                 doors[doorNumber].Cost = int.Parse(costInfo[doorNumber - 1]);
             }
